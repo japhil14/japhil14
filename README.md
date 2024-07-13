@@ -7,3 +7,4 @@
 - 🌱 I’m currently learning about Graphic Information Technology for my degree!
 
 - ⚡ Fun fact: I love arcade games!
+![arcade](image.jpg)
