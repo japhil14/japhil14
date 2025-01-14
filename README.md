@@ -2,7 +2,7 @@
 
 <h1>About Me</h1>
 
-- 🔭 I’m currently working on [GIT 215](<https://poly.engineering.asu.edu/>)
+- 🔭 I’m currently working on [GIT 337](<https://poly.engineering.asu.edu/>)
 
 - 🌱 I’m currently learning about Graphic Information Technology for my degree!
 
